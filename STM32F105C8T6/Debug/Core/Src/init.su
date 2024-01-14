@@ -1,0 +1,9 @@
+../Core/Src/init.c:9:6:SystemClock_Config	88	static
+../Core/Src/init.c:55:6:init_tim2	4	static
+../Core/Src/init.c:65:6:init_usart1	4	static
+../Core/Src/init.c:88:6:init_eeprom	4	static
+../Core/Src/init.c:101:6:enable_ports	4	static
+../Core/Src/init.c:157:6:gpio_in	32	static
+../Core/Src/init.c:167:6:gpio_out	32	static
+../Core/Src/init.c:180:6:MX_GPIO_Init	24	static
+../Core/Src/init.c:193:6:Error_Handler	4	static,ignoring_inline_asm

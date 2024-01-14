@@ -1,0 +1,8 @@
+../Core/Src/decode.c:50:9:decode_usb	40	static
+../Core/Src/decode.c:75:6:decode_uart	40	static
+../Core/Src/decode.c:107:6:save_keymap	16	static
+../Core/Src/decode.c:112:10:lookup_char	24	static
+../Core/Src/decode.c:126:6:reset_layout	64	static
+../Core/Src/decode.c:146:6:swap	32	static
+../Core/Src/decode.c:153:11:get_keyMap	4	static
+../Core/Src/decode.c:158:6:saveLayout	56	static

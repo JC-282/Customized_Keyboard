@@ -1,0 +1,9 @@
+../Core/Src/keyscan.c:5:6:nano_wait	16	static,ignoring_inline_asm
+../Core/Src/keyscan.c:35:6:push_queue	16	static
+../Core/Src/keyscan.c:40:9:pop_queue	16	static
+../Core/Src/keyscan.c:49:6:update_history	24	static
+../Core/Src/keyscan.c:142:6:drive_row	16	static
+../Core/Src/keyscan.c:149:5:read_col	16	static
+../Core/Src/keyscan.c:158:9:get_key_event	4	static,ignoring_inline_asm
+../Core/Src/keyscan.c:169:9:get_keypress	16	static
+../Core/Src/keyscan.c:187:10:send_char	16	static

@@ -1,0 +1,15 @@
+../Core/Src/eeprom.c:3:6:eeprom_start	8	static
+../Core/Src/eeprom.c:18:6:eeprom_stop	8	static
+../Core/Src/eeprom.c:29:6:eeprom_sendbit	16	static
+../Core/Src/eeprom.c:44:9:eeprom_waitACK	16	static
+../Core/Src/eeprom.c:58:6:send_ACK	8	static
+../Core/Src/eeprom.c:73:6:send_NACK	8	static
+../Core/Src/eeprom.c:88:6:eeprom_sendbyte	24	static
+../Core/Src/eeprom.c:102:6:eeprom_sendcontrol	24	static
+../Core/Src/eeprom.c:116:6:eeprom_sendAddress	16	static
+../Core/Src/eeprom.c:125:6:eeprom_byteWrite	16	static
+../Core/Src/eeprom.c:139:6:eeprom_pageWrite	32	static
+../Core/Src/eeprom.c:152:9:readbit	16	static
+../Core/Src/eeprom.c:166:9:readbyte	24	static
+../Core/Src/eeprom.c:177:9:eeprom_randomRead	24	static
+../Core/Src/eeprom.c:195:6:eeprom_sequentialRead	40	static
